@@ -1,0 +1,6 @@
+Django
+gunicorn
+django-heroku
+social-auth-app-django
+dj-database-url
+psycopg2
